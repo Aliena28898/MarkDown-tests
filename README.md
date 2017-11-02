@@ -24,7 +24,7 @@ In this repository we are going to see the following:
 
 Character | Series
 ----------|--------
-Haruhi Suzumiya | The Melancholy of Haruhi suzumiya
+Haruhi Suzumiya | The Melancholy of Haruhi Suzumiya
 Tomoe Mami | Shojo Majo Madoka Magica
   
 You can [google](http://google.com) the rest of the information.
