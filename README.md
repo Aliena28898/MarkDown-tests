@@ -11,3 +11,12 @@ In this repository we are going to see the following:
 * Code with Hihglight Syntax
 
 
+Here is an example of code in Python:
+  def say_hello:
+    print("Hi! I'm just some random code")
+   
+  say hello
+  
+
+
+
