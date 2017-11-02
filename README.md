@@ -12,7 +12,7 @@ In this repository we are going to see the following:
 * Code with Hihglight Syntax
 
 
-####Here is an example of code in Python:
+#### Here is an example of code in Python:
 ```python
   def say_hello:
     print("Hi! I'm just some random code")
@@ -21,6 +21,12 @@ In this repository we are going to see the following:
 ```
   
 ![A random image](http://tekeremata.org/wp-content/uploads/2014/04/tumblr_static_computer_game_anime.gif)
+
+Character | Series
+----------|--------
+Haruhi Suzumiya | The Melancholy of Haruhi suzumiya
+----------|--------
+Tomoe Mami | Shojo Majo Madoka Magica
   
 You can [google](http://google.com) the rest of the information.
   
