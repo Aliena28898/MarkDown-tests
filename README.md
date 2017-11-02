@@ -14,10 +14,10 @@ In this repository we are going to see the following:
 
 #### Here is an example of code in Python:
 ```python
-  def say_hello:
+  def say_hello():
     print("Hi! I'm just some random code")
    
-  say hello
+  say_hello()
 ```
   
 ![A random image](http://tekeremata.org/wp-content/uploads/2014/04/tumblr_static_computer_game_anime.gif)
